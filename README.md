@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Isitha
-- 👀 I’m interested in programming 
+# 📊 About Me:
+- 👋 Hi, I’m Isitha Sathsara
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm looking to collaborate with each other.
 - 📫 How to reach me ...
 
 <!---
