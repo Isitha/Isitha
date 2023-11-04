@@ -1,4 +1,4 @@
-# 📊 About Me:
+# 😊 About Me:
 - 👋 Hi, I’m Isitha Sathsara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning MERN stack
